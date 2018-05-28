@@ -15,11 +15,14 @@ tags: 教程
 [蓝灯下载地址2](https://getlantern.org/en_US/)
 [sourcetree下载地址](https://www.sourcetreeapp.com)
 
+<!--more-->
+
 ![屏幕快照 2018-05-26 下午4.59.48.png](http://p9a0rgbgy.bkt.clouddn.com/屏幕快照 2018-05-26 下午4.59.48.png)
 
 我是用github账户关联的,当然你也可以用另外两种账户
 ![屏幕快照 2018-05-26 下午5.03.03.png](http://p9a0rgbgy.bkt.clouddn.com/屏幕快照 2018-05-26 下午5.03.03.png)
-### 2.SourceTree详细操作步骤 
+### 2.SourceTree详细操作步骤
+
 > 账户操作
 
 * 点击设置按钮,选择账户
