@@ -3,11 +3,11 @@
 layout: post
 title: SourceTree详细使用教程
 date: 2018-05-27 10:05:20
-toc:true
+toc: true
 tags: 教程
 ---
 
-### 1.下载并注册SourceTree
+### 下载并注册SourceTree
 
 
 注册sourcetree对应的账号,就可以免费使用SourceTree.网不太好的话可以用蓝灯免费翻墙
@@ -21,7 +21,7 @@ tags: 教程
 
 我是用github账户关联的,当然你也可以用另外两种账户
 ![屏幕快照 2018-05-26 下午5.03.03.png](http://p9a0rgbgy.bkt.clouddn.com/屏幕快照 2018-05-26 下午5.03.03.png)
-### 2.SourceTree详细操作步骤
+### SourceTree详细操作步骤
 
 > 账户操作
 
